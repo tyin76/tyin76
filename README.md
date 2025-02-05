@@ -1,4 +1,6 @@
 # 💫 Hi, I'm Terence
+🎓 I am a passionate Computer Science Student at the University of British Columbia - Vancouver.
+
 🌐 I am proficient in building full-stack applications with **React**, **Node.js**, **Express**, and **MongoDB**.<br>
 
 🚀 I’m currently learning how to expand my knowledge and skills with **Next.js**.<br>
