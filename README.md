@@ -33,10 +33,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
 
-###Connect with Me!
+#Connect with Me!
+<div>
 <a href="https://www.linkedin.com/in/terence-yin-0aabba29a/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
+</div>
 
 
 <!--horizontal divider(gradiant)-->
