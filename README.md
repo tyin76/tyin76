@@ -1,8 +1,12 @@
 # 💫 About Me
 🌐 I am proficient in building full-stack applications with **React**, **Node.js**, **Express**, and **MongoDB**.<br>
+
 🚀 I’m currently learning how to expand my knowledge and skills with **Next.js**.<br>
+
 🎨 My goal is to create impactful and user-friendly applications while continuously improving my technical skills and collaborating with others!.<br>
+
 🤝 Please feel free to reach out to me @terence.yin76@gmail.com.<br>
+
 🎶 Fun fact: When I'm not coding, I enjoy Go Karting at Speeders!
 
 
