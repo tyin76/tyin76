@@ -1,9 +1,9 @@
 # 💫 About Me
-🚀 I’m currently working on **Today-I-Learned**, a web app where users can share what they learned today, explore facts across various categories, and rate others’ contributions.<br>
-🌐 I'm currently diving into full-stack development with a focus on **React**, **Node.js**, **Express**, and **MongoDB**.<br>
-🎨 My goal is to create impactful and user-friendly applications while continuously improving my technical skills.<br>
-🤝 I'm open to collaboration and feedback on my projects to learn and grow with the community.<br>
-🎶 Fun fact: When I'm not coding, I enjoy playing fingerstyle guitar.
+🌐 I am proficient in building full-stack applications with **React**, **Node.js**, **Express**, and **MongoDB**.<br>
+🚀 I’m currently learning how to expand my knowledge and skills with **Next.js**.<br>
+🎨 My goal is to create impactful and user-friendly applications while continuously improving my technical skills and collaborating with others!.<br>
+🤝 Please feel free to reach out to me @terence.yin76@gmail.com.<br>
+🎶 Fun fact: When I'm not coding, I enjoy Go Karting at Speeders!
 
 
 # 💻 Tech Stack
