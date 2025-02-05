@@ -15,9 +15,6 @@
        alt="snake" /></a>
 </div>
 
-
-## Hi there 👋
-
 <!--
 **tyin76/tyin76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
