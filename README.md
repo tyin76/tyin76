@@ -7,7 +7,7 @@
 
 🎨 My goal is to create impactful and user-friendly applications while continuously improving my technical skills and collaborating with others!.<br>
 
-🤝 Please feel free to reach out to me @terence.yin76@gmail.com.<br>
+🤝 Please feel free to reach out to me @terence.yin76@gmail.com and connect with me on <a href="https://www.linkedin.com/in/terence-yin-0aabba29a/" target="_blank">LinkedIn</a>.<br>
 
 🎶 Fun fact: When I'm not coding, I enjoy Go Karting at Speeders!
 
