@@ -3,7 +3,7 @@
 
 🌐 I am proficient in building full-stack applications.
 
-🚀 I’m currently learning how to expand my knowledge and skills with **Next.js**.<br>
+🚀 I’m currently learning how to expand my knowledge and skills with optimizing my output with AI.
 
 🎨 My goal is to create impactful and user-friendly applications while continuously improving my technical skills and collaborating with others!<br>
 
