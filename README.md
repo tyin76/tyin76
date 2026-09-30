@@ -7,7 +7,6 @@ Building thoughtful, full-stack experiences that are useful, intuitive, and made
 
 <a href="mailto:terence.yin76@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Terence" /></a>
 <a href="https://www.linkedin.com/in/terence-yin-0aabba29a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Terence on LinkedIn" /></a>
-<a href="https://github.com/tyin76"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Terence on GitHub" /></a>
 
 </div>
 
