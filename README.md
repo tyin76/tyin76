@@ -29,7 +29,7 @@ I enjoy turning ideas into polished web applications—from the interface people
     </td>
     <td valign="top" width="33.33%">
       <strong>Full stack</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,firebase,tailwind" alt="React, Node.js, Express, MongoDB, MySQL, Firebase, and Tailwind CSS" />
+      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,firebase,tailwind" alt="React, Node.js, Express, MongoDB, PostgreSQL, Firebase, and Tailwind CSS" />
     </td>
     <td valign="top" width="33.33%">
       <strong>Design &amp; workflow</strong><br/><br/>
