@@ -12,7 +12,7 @@ Building thoughtful, full-stack experiences that are useful, intuitive, and made
 
 ## About me
 
-I enjoy turning ideas into polished web applications—from the interface people see to the systems that power them. I care about clear design, reliable engineering, and continually finding better ways to work.
+I enjoy turning ideas into polished applications. I care about clear design, reliable engineering, and continually finding better ways to work.
 
 - 🔭 Building full-stack applications with a focus on practical, user-friendly experiences.
 - 🌱 Exploring AI-assisted workflows to improve how I learn, build, and ship.
